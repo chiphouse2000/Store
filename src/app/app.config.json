@@ -1,0 +1,14 @@
+{
+	"appname": "Store",
+	"scope": "FullAccess",
+	"clientid": "1BD20224-37A3-4988-BF4D-BE11CCE90F99",
+	"buyerid": "Buyer0817",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
